@@ -20,4 +20,4 @@ This project is a Java-based Student Management System that allows users to:
 2. Run the program: `java Main`
 
 ## GitHub Repository
-[Your GitHub Repo Link Here]
+(https://github.com/shrey-debug-17/java_assignment_3)
